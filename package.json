@@ -1,8 +1,8 @@
 {
   "name": "bloomen-token",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "description": "",
-  "main": "truffle-config.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },

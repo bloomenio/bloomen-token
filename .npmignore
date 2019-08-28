@@ -1,0 +1,9 @@
+.vscode
+migrations
+node_modules
+.env
+.env.example
+.gitignore
+package-lock.json
+package-scripts.js
+truffle-config.js
