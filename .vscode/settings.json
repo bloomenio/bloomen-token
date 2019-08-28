@@ -1,0 +1,25 @@
+{
+    "sassFormat.indent": 2,
+    "files.exclude": {
+        "/.git": true,
+        "/.svn": true,
+        "/.hg": true,
+        "/.DS_Store": true,
+        "/platforms": true,
+        "/plugins": true,
+        "/*.js.map": true,
+        "/.vscode": true,
+        "**/.vs": true
+    },
+    "html.suggest.angular1": false,
+    "editor.rulers": [
+        160
+    ],
+    "git.ignoreLimitWarning": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#d98bff",
+        "titleBar.inactiveBackground": "#6d4680",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#463b60"
+    },
+}

@@ -1,0 +1,27 @@
+{
+  "name": "bloomen-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "nps"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "nps": "^5.9.3",
+    "copyfiles": "^2.1.0",
+    "dotenv": "6.0.0",
+    "openzeppelin-solidity": "2.2.0",
+    "rlp": "2.1.0",
+    "solidity-rlp": "2.0.0",
+    "truffle": "5.0.12",
+    "ganache-cli": "^6.4.1"
+  }
+}
